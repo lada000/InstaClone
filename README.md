@@ -21,7 +21,7 @@ InstaClone - это учебный проект веб-приложения, с�
 - Ruby "2.7.3"
 - HTML/CSS
 - JavaScript
-- SQLite3 или PostgreSQL
+- SQLite3
 - Gem 'devise', '~> 4.9', '>= 4.9.3'
 - Gem 'rails_admin', '~> 3.0'
 - Gem 'sassc', '~> 2.0'
